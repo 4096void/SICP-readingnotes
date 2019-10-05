@@ -1,0 +1,19 @@
+1.1 The Elements of Programming
+
+Every programming language has these three mechanisms:
+
+Primitive expressions, the simplest entities the language is concerned with.
+Means of combinations, compound elements are built from simpler ones.
+Means of abstractions, compound elements can be named and manipulated as units.
+
+procedures & data
+
+1.1.1 Expressions
+
+Expressions such as these ((+ 2000 19), (* 25 4)), formed by delimiting a list of expressions within parentheses in order to denote procedure application, are called combinations.
+
+The leftmost element ... called operator ... and the other elements are called operands.
+
+Then applying the procedure specified by the operator to the arguments that are the values of operands.
+
+pretty-printing & read-eval-print-loop
