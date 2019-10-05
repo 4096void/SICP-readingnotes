@@ -1,0 +1,32 @@
+Second Edition
+
+As software, is it meant to be discarded?
+Always seeing it as a soap bubble?
+
+Central role played by different approaches to dealing with time in computational models:
+objects with state,
+concurrent programming,
+functional programming,
+lazy evaluation,
+and nondeterministic programming.
+
+support
+https://www.mitpress.mit.edu/sites/default/files/sicp/index.html
+
+First Edition
+
+Two major concerns:
+
+1st Computer language is not just a way of getting a computer to perform operations but rather that it is novel formal medium for expressing ideas about methodology.
+
+2nd Techniques used to control the intellectual complexity of large software systems.
+
+The computer revolution is a revolution in the way we think and in the way we express what we think.
+
+procedural epistemology
+
+Thanks John McCarthy
+
+Scheme.
+
+Alonzo Church, Barkley Rosser, Stephen Kleene and Haskell Curry.
