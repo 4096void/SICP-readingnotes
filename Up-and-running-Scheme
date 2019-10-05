@@ -1,0 +1,5 @@
+Install MIT Scheme on MacOS: https://stackoverflow.com/questions/12322434/how-to-install-mit-scheme-on-mac
+Scheme's sourcecode extension: https://stackoverflow.com/questions/36240629/whats-the-proper-scheme-file-extension
+Execute Scheme scripts outside repl: https://stackoverflow.com/questions/903968/how-do-i-execute-a-scm-script-outside-of-the-repl-with-mit-scheme
+
+Then just type `scheme` in terminal enter repl mode, or type `scheme < schemeScript.scm` to test code.
