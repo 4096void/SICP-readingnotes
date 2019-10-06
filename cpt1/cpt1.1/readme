@@ -17,3 +17,20 @@ The leftmost element ... called operator ... and the other elements are called o
 Then applying the procedure specified by the operator to the arguments that are the values of operands.
 
 pretty-printing & read-eval-print-loop
+
+1.1.2 Naming and Environment
+
+We name things with define.
+
+(define myAge 27)
+(define size 20)
+
+size
+20
+
+(* 5 size)
+100
+
+Our language's simplest means of abstraction, for it allows us to use simple names to refer to the rsults of compound operations ...
+
+... the interpreter must maintain some sort of memory that keeps track of the name-object pairs. This memory is called environment ...
